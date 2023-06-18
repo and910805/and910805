@@ -4,7 +4,8 @@
 **and910805/and910805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 😐 My name is Zhuang Guanlin
+- 😐 My name is Zhuang Guanlin.
 - 🔭 I am a third-year student majoring in Computer Science at National Taitung University.
-- 🌱 I am a third-year student majoring in Computer Science with a focus on AI and cybersecurity at National Taitung University. Currently, I am also exploring web development.
-- 📫 How to reach me: goole910805@gmail.com
+- 🌱 I am interested in AI, cybersecurity, web development, and web scraping.
+- ❤️ I enjoy exploring and extracting data through web scraping techniques.
+- 📫 You can reach me at goole910805@gmail.com.
