@@ -1,4 +1,6 @@
 >最近開起來IT鐵人賽，歡迎來看我的文章 https://ithelp.ithome.com.tw/users/20171891/ironman/8352
+>![Hacker Intro](./about_me_.gif)
+
 ### Hello 👋
 
 <!--
