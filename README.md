@@ -7,7 +7,7 @@
 <!--
 **and910805/and910805** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 --> 
-
+>目前專注APT手法研究
 #### English Version
 - 👨‍💻 My name is **Zhuang Guanlin (Eric)**.  
 - 🛡️ Currently working as a **Cybersecurity Engineer**, with experience in vulnerability management, EDR, Microsoft 365 security, and cloud security.  
