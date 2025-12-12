@@ -1,4 +1,5 @@
->最近開起來IT鐵人賽，歡迎來看我的文章 https://ithelp.ithome.com.tw/users/20171891/ironman/8352
+>完賽2025鐵人賽，歡迎來看我的文章 https://ithelp.ithome.com.tw/users/20171891/ironman/8352 
+
 
 ![Hacker Intro](./about_me_.gif)
 
@@ -28,6 +29,7 @@
 
 ---
 <img width="1074" height="832" alt="image" src="https://github.com/user-attachments/assets/ac86db88-8356-4637-bd00-9fb15e793a01" />
+<img width="201" height="204" alt="image" src="https://github.com/user-attachments/assets/22d1cb19-2d34-4d4b-9644-ef02a0e00c01" />
 
 
 ### 🛠️ Skills & Tools  
