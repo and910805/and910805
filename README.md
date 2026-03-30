@@ -33,6 +33,7 @@
 
 ---
 <img width="1074" height="832" alt="image" src="https://github.com/user-attachments/assets/ac86db88-8356-4637-bd00-9fb15e793a01" />
+<img width="1074" height="1232" alt="image" src="./ECC-CEHMaster-Certificate.png" />
 <img width="201" height="204" alt="image" src="https://github.com/user-attachments/assets/22d1cb19-2d34-4d4b-9644-ef02a0e00c01" />
 
 
