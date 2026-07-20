@@ -1,10 +1,10 @@
+![Eric Zhuang — Cybersecurity Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00D9F5,100:7B2FF7&height=190&section=header&text=ERIC%20ZHUANG&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=CYBERSECURITY%20%7C%20AUTOMATION%20%7C%20BUILDING&descAlignY=55&descSize=16)
+
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00E5C3&center=true&vCenter=true&width=760&lines=Cybersecurity+Engineer;Vulnerability+Research+%26+CVE+Coordination;Detection+%26+Response;Security+Automation+with+Python)](https://git.io/typing-svg)
+
 ![Hacker Intro](./about_me_.gif)
-
-# Hi, I'm Eric Zhuang 👋
-
-### Cybersecurity Engineer · Vulnerability Research · Security Automation
 
 研究弱點、守住系統，也用程式把資安工作做得更快、更準。<br>
 I investigate vulnerabilities, strengthen defenses, and automate security workflows.
@@ -12,6 +12,7 @@ I investigate vulnerabilities, strengthen defenses, and automate security workfl
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eric-s-dev-site.kuanlin.pro/)
 [![Email](https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goole910805@gmail.com)
 [![iThome](https://img.shields.io/badge/2025%20鐵人賽-完賽文章-F5A623?style=for-the-badge)](https://ithelp.ithome.com.tw/users/20171891/ironman/8352)
+[![Profile Views](https://komarev.com/ghpvc/?username=and910805&label=PROFILE%20VIEWS&color=7B2FF7&style=for-the-badge)](https://github.com/and910805)
 
 </div>
 
@@ -19,12 +20,15 @@ I investigate vulnerabilities, strengthen defenses, and automate security workfl
 
 ## About Me
 
-```text
-Name       莊冠霖 Zhuang Guanlin (Eric)
-Role       Cybersecurity Engineer
-Focus      Vulnerability Research · CVE Coordination · Detection & Response · ISMS
-Building   Security Automation · Dashboards · Attack Simulation · AI Security
-Also       程式家教 / Programming Tutor
+```console
+eric@security-lab:~$ whoami
+莊冠霖 / Eric Zhuang — Cybersecurity Engineer
+
+eric@security-lab:~$ cat focus.txt
+Vulnerability Research | CVE Coordination | Detection & Response | ISMS
+
+eric@security-lab:~$ ./build.sh
+Security Automation | Dashboards | Attack Simulation | AI Security
 ```
 
 我是一名資安工程師，具備弱點研究與 CVE 協調、ISO 27001／ISMS、端點偵測與回應，以及企業資安維運經驗。我習慣同時站在攻擊者與防禦者的角度思考，並用 Python 將繁瑣流程變成可重複、可追蹤的自動化工具。
@@ -101,6 +105,25 @@ Used the **Adversarial Robustness Toolbox** to generate adversarial samples, eva
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
+## 📡 GitHub Signal
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=and910805&show_icons=true&hide_border=true&bg_color=00000000&title_color=00E5C3&icon_color=7B2FF7&text_color=C9D1D9&ring_color=00D9F5&include_all_commits=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=and910805&show_icons=true&hide_border=true&bg_color=00000000&title_color=00796B&icon_color=7B2FF7&text_color=24292F&ring_color=00A6C7&include_all_commits=true">
+  <img height="175" alt="Eric's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=and910805&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=and910805&layout=compact&hide_border=true&bg_color=00000000&title_color=00E5C3&text_color=C9D1D9&langs_count=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=and910805&layout=compact&hide_border=true&bg_color=00000000&title_color=00796B&text_color=24292F&langs_count=8">
+  <img height="175" alt="Eric's most-used public repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=and910805&layout=compact&hide_border=true&theme=transparent&langs_count=8">
+</picture>
+
+<sub>Statistics reflect public GitHub repositories and activity.</sub>
+
+</div>
+
 ## Certifications
 
 <details>
@@ -126,3 +149,5 @@ Used the **Adversarial Robustness Toolbox** to generate adversarial samples, eva
 [Portfolio](https://eric-s-dev-site.kuanlin.pro/) · [iThome](https://ithelp.ithome.com.tw/users/20171891/ironman/8352) · [Email](mailto:goole910805@gmail.com)
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:00D9F5,100:00F5A0&height=110&section=footer)
