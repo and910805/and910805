@@ -29,4 +29,5 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: mainer
           UTC_OFFSET: 8
+          THEME: 2077
           AUTO_PUSH: true
