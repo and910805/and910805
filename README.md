@@ -105,22 +105,19 @@ Used the **Adversarial Robustness Toolbox** to generate adversarial samples, eva
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-## 📡 GitHub Signal
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=and910805&show_icons=true&hide_border=true&bg_color=00000000&title_color=00E5C3&icon_color=7B2FF7&text_color=C9D1D9&ring_color=00D9F5&include_all_commits=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=and910805&show_icons=true&hide_border=true&bg_color=00000000&title_color=00796B&icon_color=7B2FF7&text_color=24292F&ring_color=00A6C7&include_all_commits=true">
-  <img height="175" alt="Eric's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=and910805&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=and910805&layout=compact&hide_border=true&bg_color=00000000&title_color=00E5C3&text_color=C9D1D9&langs_count=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=and910805&layout=compact&hide_border=true&bg_color=00000000&title_color=00796B&text_color=24292F&langs_count=8">
-  <img height="175" alt="Eric's most-used public repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=and910805&layout=compact&hide_border=true&theme=transparent&langs_count=8">
-</picture>
+<img width="100%" alt="Eric's GitHub contribution overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=and910805&theme=2077" />
 
-<sub>Statistics reflect public GitHub repositories and activity.</sub>
+<img width="49%" alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=and910805&theme=2077" />
+<img width="49%" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=and910805&theme=2077" />
+
+<img width="49%" alt="Eric's GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=and910805&theme=2077" />
+<img width="49%" alt="Eric's productive commit time in UTC+8" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=and910805&theme=2077&utcOffset=8" />
+
+<sub>Live statistics from public GitHub activity · Time zone: Asia/Taipei (UTC+8)</sub>
 
 </div>
 
