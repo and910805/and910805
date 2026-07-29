@@ -1,0 +1,32 @@
+name: Generate GitHub Profile Summary Cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 00:17 UTC = 08:17 Asia/Taipei
+    - cron: "17 0 * * *"
+  push:
+    branches:
+      - mainer
+    paths:
+      - .github/workflows/profile-summary-cards.yml
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: mainer
+          UTC_OFFSET: 8
+          AUTO_PUSH: true

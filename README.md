@@ -109,15 +109,15 @@ Used the **Adversarial Robustness Toolbox** to generate adversarial samples, eva
 
 <div align="center">
 
-<img width="100%" alt="Eric's GitHub contribution overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=and910805&theme=2077" />
+<img width="100%" alt="Eric's GitHub contribution overview" src="./profile-summary-card-output/2077/0-profile-details.svg" />
 
-<img width="49%" alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=and910805&theme=2077" />
-<img width="49%" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=and910805&theme=2077" />
+<img width="49%" alt="Top languages by repository" src="./profile-summary-card-output/2077/1-repos-per-language.svg" />
+<img width="49%" alt="Top languages by commit" src="./profile-summary-card-output/2077/2-most-commit-language.svg" />
 
-<img width="49%" alt="Eric's GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=and910805&theme=2077" />
-<img width="49%" alt="Eric's productive commit time in UTC+8" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=and910805&theme=2077&utcOffset=8" />
+<img width="49%" alt="Eric's GitHub statistics" src="./profile-summary-card-output/2077/3-stats.svg" />
+<img width="49%" alt="Eric's productive commit time in UTC+8" src="./profile-summary-card-output/2077/4-productive-time.svg" />
 
-<sub>Live statistics from public GitHub activity · Time zone: Asia/Taipei (UTC+8)</sub>
+<sub>Generated daily from public GitHub activity · Time zone: Asia/Taipei (UTC+8)</sub>
 
 </div>
 
