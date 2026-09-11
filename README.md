@@ -35,14 +35,6 @@ Security Automation | Dashboards | Attack Simulation | AI Security
 
 I'm a cybersecurity engineer with hands-on experience in vulnerability research and CVE coordination, ISO 27001/ISMS, endpoint detection and response, and enterprise security operations. I combine an attacker's perspective with a defender's discipline—and use Python to turn repetitive work into reliable, traceable automation.
 
-## Experience
-
-### Engineer · [國家資通安全研究院](https://www.nics.nat.gov.tw/)
-**National Institute of Cyber Security (NICS)** · Present
-
-現任國家資通安全研究院工程師，參與資通安全研究與工程實務，持續投入弱點研究、資安防護及安全自動化能力建置。
-
-Currently serving as an engineer at the National Institute of Cyber Security, contributing to cybersecurity research and engineering with a focus on vulnerability research, cyber defense, and security automation.
 
 ## What I Do
 
